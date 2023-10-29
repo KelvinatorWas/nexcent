@@ -1,0 +1,83 @@
+
+:root {
+	/* #region COLORS */
+   
+	/*======= neutral =========*/
+
+	--black:      #263238;
+	--d-gray:     #4D4D4D;
+	--gray:       #717171;
+	--l-gray:     #89939E;
+	--gray-blue:  #ABBED1;
+	--silver:     #F5F7FA;
+	--white:      #FFFFFF;
+
+	/*======= primary =========*/
+
+	--primary:    #4CAF4F;
+	--secondary:  #263238;
+	--info:       #2194f3;
+
+	/*======= shades ==========*/
+
+	--s-shade1:   #43A046;
+	--s-shade2:   #388E3B;
+	--s-shade3:   #237D31;
+	--s-shade4:   #1B5E1F;
+	--s-shade5:   #103E13;
+
+	/*======= color tint ======*/
+
+	--c-tint1:    #66BB69;
+	--c-tint2:    #81C784;
+	--c-tint3:    #A5D6A7;
+	--c-tint4:    #C8E6C9;
+	--c-tint5:    #E8F5E9;
+
+	/*======= action ==========*/
+
+	--a-warning:  #FBC02D;
+	--a-error:    #E53835;
+	--a-success:  #2E7D31;
+
+	/*#endregion*/
+
+	/* #region FONTS  */
+
+	--r-font: 		Inter;
+	--m-font: Montserrat;
+
+	/*        FONT SIZE       */
+
+	/*======= Header ==========*/
+
+	--h-font-size1: 64px;
+	--h-font-size2: 36px;
+	--h-font-size3: 28px;
+	--h-font-size4: 20px;
+
+	/*------ h linesize --------*/
+
+	--h-line-height1: 78px;
+	--h-line-height2: 44px;
+	--h-line-height3: 36px;
+	--h-line-height4: 28px;
+
+	/*====== Regular & Medium Body ======*/
+
+	--rm-font-size1: 18px;
+	--rm-font-size2: 16px;
+	--rm-font-size3: 14px;
+	--rm-font-size4: 12px;
+
+	/*------ regular & medium linesize --------*/
+
+	--rm-line-height1: 28px;
+	--rm-line-height2: 24px;
+	--rm-line-height3: 20px;
+	--rm-line-height4: 16px;
+
+	/* #endregion */
+
+
+} 
